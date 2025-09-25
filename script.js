@@ -3,7 +3,7 @@ const conselhos = [
     "A persistência realiza o impossivel.", "Aprenda algo novo hoje.",
     "Seja gentil com todos que encontrar."
 ]
-const conselhoTexto = document.getElementById('conselhoTexto');
+const conselhoTexto = document.getElementById('conselgoTexto');
 const novoConselhoBtn = document.getElementById('novoConselhoBtn');
 
 function gerarConselho() {
